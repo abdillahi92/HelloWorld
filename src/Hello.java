@@ -7,6 +7,11 @@ public class Hello {
 			System.out.println("salut samaleh"+i);
 			System.out.print("souldan");
 		}
+		
+		for(int i=0; i<10;i++) {
+			System.out.println("salut samaleh"+i);
+			System.out.print("souldan");
+		}
 
 	}
 
